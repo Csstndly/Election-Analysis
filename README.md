@@ -20,3 +20,7 @@ The purpose of this analysis is to help audit votes in a precinct in Colorado. I
 ## Election-Audit Summary
 
 This script can not only work for the current election that the script was made for but others as well. The script is not set to any specific data so it can adapt to the voting data sets or information in upcoming elections. There will have to be small changes like which file to load into the script. As well as which rows it needs to iterate through to find certain variables. 
+
+![Load](https://user-images.githubusercontent.com/88587406/132156582-3954120f-56d5-459f-abbb-3b0b523387b6.JPG)
+![Rows](https://user-images.githubusercontent.com/88587406/132156588-32629270-8414-43de-b380-8b09b77ae5a4.JPG)
+
